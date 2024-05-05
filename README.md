@@ -1,7 +1,10 @@
 # 4.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command Prompt And Network Protocol Analyzer
-## Procedure: To do this EXPERIMENT- follows these steps:
+## AIM :
+Use of Network commands in Real Time environment
+## Software :
+ Command Prompt And Network Protocol Analyzer
+## Procedure: 
+To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
 <BR>
@@ -26,7 +29,25 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Program:
+### Simulating PING command:
+#### server:
+![alt text](<Screenshot 2024-05-05 123529.png>)
 
-## Result
+#### client:
+![alt text](<Screenshot 2024-05-05 123600.png>)
+
+### Simulating TRACEROUTE:
+![alt text](<Screenshot 2024-05-05 123517.png>)
+## Output:
+### Simulating PING command:
+#### server:
+![alt text](<Screenshot 2024-05-05 121912.png>)
+#### client:
+![alt text](<Screenshot 2024-05-05 122015.png>)
+
+### Simulating TRACEROUTE:
+![alt text](<Screenshot 2024-05-05 122401.png>)
+
+## Result:
 Thus Execution of Network commands Performed 
